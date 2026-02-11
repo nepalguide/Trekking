@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://nepalguide.github.io/Trekking/
+Sitemap: https://nepalguide.github.io/Trekking/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
